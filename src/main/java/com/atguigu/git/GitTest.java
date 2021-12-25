@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git hot-fix chongtuhebing");
         System.out.println("推送代码到远程库 push");
         System.out.println("测试 拉取远程库 pull");
+        System.out.println("测试 拉取远程库 pull2222");
     }
 }
