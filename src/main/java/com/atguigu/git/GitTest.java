@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git hot-fix");
         System.out.println("hello git master hebingchongtu");
         System.out.println("hello git hot-fix chongtuhebing");
+        System.out.println("推送代码到远程库 push");
     }
 }
